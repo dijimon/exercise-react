@@ -1,0 +1,4 @@
+{
+  "phabricator.uri": "https://phrac.deviantart.net/",
+  "load": ["arcanist/"]
+}
